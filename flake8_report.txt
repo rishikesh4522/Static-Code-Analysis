@@ -1,0 +1,10 @@
+inventory_system.py:10:80: E501 line too long (91 > 79 characters)
+inventory_system.py:22:1: W293 blank line contains whitespace
+inventory_system.py:24:80: E501 line too long (91 > 79 characters)
+inventory_system.py:73:80: E501 line too long (82 > 79 characters)
+inventory_system.py:99:80: E501 line too long (92 > 79 characters)
+inventory_system.py:108:80: E501 line too long (82 > 79 characters)
+inventory_system.py:111:80: E501 line too long (94 > 79 characters)
+inventory_system.py:189:37: E261 at least two spaces before inline comment
+inventory_system.py:192:55: E261 at least two spaces before inline comment
+inventory_system.py:193:55: E261 at least two spaces before inline comment
